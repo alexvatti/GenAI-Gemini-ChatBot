@@ -36,4 +36,4 @@ Google Generative AI Gemini Flash and deployed with Streamlit.
 
 1. Run the Streamlit app by executing:
 ```bash
-streamlit run app.py
+streamlit run Gemini-Bot.py
