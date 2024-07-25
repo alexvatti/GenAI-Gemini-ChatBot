@@ -18,6 +18,7 @@ It aims to enhance bot interactivity and functionality, catering to both beginne
 The project leverages Gemini Pro/Flash for a seamless development experience.
 
 **Google GenAI LLM: Gemini Flash/Gemino Pro** 
+
 **Google Generative AI Gemini Flash and deployed with Streamlit.**
 
 ![](Gemini.png)
